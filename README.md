@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django , Python**
 
-- 📝 Know about my experiences [https://www.instagram.com/ankitpoddar_](https://www.instagram.com/ankitpoddar_)
+- 📝 Know about my experiences [https://www.instagram.com/ankitpoddar_](www.linkedin.com/in/ankit-kumar-271a3730b)
 
 - 💬 Ask me about **Web-development,Python,Django,etc...**
 
