@@ -13,11 +13,15 @@
 
 - 📝 Know about my experiences [https://www.linkedin.com/in/ankit-kumar-271a3730b](https://www.linkedin.com/in/ankit-kumar-271a3730b)
 
-- 💬 Ask me about **Web-development,Python,Django,etc...**
+- 💬 Ask me about **Web-development,Python,Django,Data Analytics,Databases,M.L,A.I, etc...**
 
 - 📫 How to reach me **ankitkumarpoddar07@gmail.com**
 
 - ⚡ Fun fact **"Aham Brahmasmi"**
+  
+- 📢 **Join My Telegram Channel :**
+  
+- ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)[Radhe's Debugging Zone](https://t.me/radhe_zoneHub) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
